@@ -23,7 +23,7 @@
 
 # Sobre mim:
 
-#### Desde os 14 anos, tenho sido imerso na arte da programação, alimentando uma paixão incansável por este domínio. Sou um indivíduo focado, determinado e pontual, sempre em busca de oportunidades que me permitam aprofundar minha profissionalização e aprimorar constantemente minhas habilidades neste campo em constante evolução. Estou comprometido em alcançar os mais altos padrões de excelência e em contribuir significativamente para projetos desafiadores e inovadores.
+#### Sou um indivíduo focado, determinado e pontual, sempre em busca de oportunidades que me permitam aprofundar minha profissionalização e aprimorar constantemente minhas habilidades neste campo em constante evolução. Estou comprometido em alcançar os mais altos padrões de excelência e em contribuir significativamente para projetos desafiadores e inovadores.
 
 #
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juliowk&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
