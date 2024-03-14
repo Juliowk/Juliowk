@@ -8,7 +8,6 @@
     <img style="margin-bottom: 10;" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" align="center">
     <img style="margin-bottom: 10;" alt="Express.js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" align="center">
     <img style="margin-bottom: 10;" alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" align="center">
-    <img style="margin-bottom: 10;" alt="Sequelize" src="https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue" align="center">
     <img style="margin-bottom: 10;" alt="Json Web Token" src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" align="center">
     <img style="margin-bottom: 10;" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" align="center">
     <img style="margin-bottom: 10;" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" align="center">
