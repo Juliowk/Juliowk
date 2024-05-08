@@ -16,10 +16,6 @@
 
 <br>
 
-### Links:
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/júlio-elias-desenvolvedor)
-[![Linkedin](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([www.linkedin.com/in/júlio-elias-desenvolvedor](https://www.instagram.com/juiiiiiiiii_elias?igsh=aW5oZDlvaDhjajJn))
-
 # Sobre mim:
 
 #### Sou um indivíduo focado, determinado e pontual, sempre em busca de oportunidades que me permitam aprofundar minha profissionalização e aprimorar constantemente minhas habilidades neste campo em constante evolução. Estou comprometido em alcançar os mais altos padrões de excelência e em contribuir significativamente para projetos desafiadores e inovadores.
