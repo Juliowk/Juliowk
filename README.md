@@ -1,4 +1,3 @@
- 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00D713&size=35&center=true&vCenter=true&width=1000&lines=I+AM+A+FULL-STACK+DEVELOPER!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
@@ -7,38 +6,39 @@
 </div>
 
 ### Main skills:
-![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=TypeScript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=MySQL&labelColor=0D1117&textColor=0D1117)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=MongoDB&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Knex](https://img.shields.io/badge/-Knex-0D1117?style=for-the-badge&logo=Knex.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Handlebars](https://img.shields.io/badge/-handlebars-0D1117?style=for-the-badge&logo=handlebars&labelColor=0D1117)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
 
- 
-### Tools:
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=&logoColor=0D1117&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+  <img alt="TypeScript" title="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img alt="JavaScript" title="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img alt="React" title="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img alt="Docker" title="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+  <img alt="Nodejs" title="Nodejs" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img alt="MongoDB" title="MongoDB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+  <img alt="Mysql" title="Mysql" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img alt="Knex" title="Knex" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/knexjs/knexjs-original.svg" />
+  <img alt="Handlebars" title="Handlebars" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/handlebars/handlebars-original.svg" />
+  <img alt="React-Bootstrap" title="React-Bootstrap" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactbootstrap/reactbootstrap-original.svg" />
+  <img alt="Bootstrap" title="Bootstrap" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+  <img alt="HTML5" title="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img alt="CSS" title="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img alt="Vs-Code" title="Vs-Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+  <img alt="Git" title="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img alt="GitHub" title="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+</div>
 
- 
 ### Other Knowledge:
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-![Postgres](https://img.shields.io/badge/-Postgres-0D1117?style=for-the-badge&logo=Postgres&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Prisma](https://img.shields.io/badge/-Prisma-0D1117?style=for-the-badge&logo=Prisma&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Fastify](https://img.shields.io/badge/-Fastify-0D1117?style=for-the-badge&logo=Fastify&labelColor=0D1117&textColor=0D1117)&nbsp;
-  
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+  <img alt="Figma" title="Figma" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+  <img alt="Postgress" title="Postgress" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
+  <img alt="Prisma" title="Prisma" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />
+  <img alt="Fastify" title="Fastify" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg" />
+</div>
+
 ### Studying in this moment:
-![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=Docker&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Juliowk}/count.svg" /></p> 
-<br></div>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00D713&size=20&center=true&vCenter=true&width=1000&lines=julioeliasdesousarocha.wk@gmail.com)](https://git.io/typing-svg)
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+  <img alt="Tailwind" title="Tailwind" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f&height=120&section=footer"/>
